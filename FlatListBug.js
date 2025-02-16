@@ -1,0 +1,1 @@
+This error occurs when using the `FlatList` component in React Native with a large dataset. The performance can degrade significantly, causing the app to become unresponsive or crash.  The error manifests as a blank screen or slow rendering, with no specific error message in the console.
